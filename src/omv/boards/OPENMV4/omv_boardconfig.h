@@ -47,6 +47,8 @@
 #define OMV_OV7670_VERSION         (70)
 #define OMV_OV7670_CLKRC           (0x00)
 
+#define OMV_OV7690_ENABLE (1)
+
 #define OMV_OV9650_ENABLE                     (1)
 #define OMV_MT9M114_ENABLE                    (1)
 #define OMV_MT9V0XX_ENABLE                    (1)
