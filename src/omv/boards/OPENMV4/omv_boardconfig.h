@@ -43,10 +43,6 @@
 #define OMV_OV7725_PLL_CONFIG                 (0x41) // x4
 #define OMV_OV7725_BANDING                    (0x7F)
 
-#define OMV_OV7670_ENABLE          (1)
-#define OMV_OV7670_VERSION         (70)
-#define OMV_OV7670_CLKRC           (0x00)
-
 #define OMV_OV7690_ENABLE (1)
 
 #define OMV_OV9650_ENABLE                     (1)
